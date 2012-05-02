@@ -1,0 +1,12 @@
+{
+  "name": "One Vim",
+  "sections": [
+    { "section": "title" },
+    { "section": "mentality"},
+    { "section": "fuzzyfinder"},
+    { "section": "bufexplorer"},
+    { "section": "bufkill"},
+    { "section": "sessionman"},
+    { "section": "end" }
+  ]
+}
