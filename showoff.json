@@ -3,6 +3,7 @@
   "sections": [
     { "section": "title" },
     { "section": "mentality"},
+    { "section": "multiple"},
     { "section": "fuzzyfinder"},
     { "section": "bufexplorer"},
     { "section": "bufkill"},
