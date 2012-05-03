@@ -8,5 +8,5 @@
 
 * efficiency
 * proximity
-* refactoring
 * reference
+* refactoring
