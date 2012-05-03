@@ -1,4 +1,12 @@
 !SLIDE subsection
 
-# why one vim? #
+# why one vim?
 
+!SLIDE bullets incremental
+
+# why one vim?
+
+* efficiency
+* proximity
+* refactoring
+* reference
