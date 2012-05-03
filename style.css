@@ -7,6 +7,10 @@
     text-align: left;
 }
 
+.center.bullets > ul > li {
+    text-align: center;
+}
+
 #footer {
     display: none;
 }

@@ -2,7 +2,7 @@
 
 # more than one file #
 
-!SLIDE bullets fixed-top
+!SLIDE bullets
 
 # opening other files
 

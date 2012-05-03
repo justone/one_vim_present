@@ -2,7 +2,7 @@
 
 # why one vim?
 
-!SLIDE bullets incremental
+!SLIDE bullets incremental center
 
 # why one vim?
 
