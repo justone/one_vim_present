@@ -2,6 +2,8 @@
 
 These are the slides from my One Vim presentation at [(mt) Media Temple](http://mediatemple.net/) on May. 10, 2012. They are written to utilize [showoff](https://github.com/schacon/showoff).
 
+Click [here](one_vim.pdf) for a PDF version.
+
 # Copyright
 
 Copyright 2012 Nate Jones.
